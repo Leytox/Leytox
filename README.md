@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Leytox's GitHub stats](https://github-readme-stats.vercel.app/api?username=leytox)](https://github.com/leytox/github-readme-stats)
 <!--
 **Leytox/Leytox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
