@@ -22,9 +22,3 @@ I am a versatile Full Stack Engineer, successful at completing simultaneous deve
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leytox&icon=0&color=0)](https://visitcount.itsvg.in)
-
-------
-
-Credit: [Leytox](https://github.com/leytox)
-
-Last Edited on: 03/05/2024
