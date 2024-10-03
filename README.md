@@ -1,3 +1,4 @@
+![](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/images/manga.png?raw=true)
 # 💫 About Me:
 
 I am a versatile Full Stack Engineer, successful at completing simultaneous development and update projects.
@@ -13,8 +14,8 @@ I am a versatile Full Stack Engineer, successful at completing simultaneous deve
 
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=leytox&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=leytox&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=leytox&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=leytox&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leytox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
