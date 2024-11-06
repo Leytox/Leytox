@@ -3,7 +3,7 @@
 
 I am a versatile Full Stack Engineer, successful at completing simultaneous development and update projects.
 
-🔭 **I’m currently working on:**  <br>Improving my pet project BlogBugster.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>GraphQL and NextJS.<br><br>💬 **Ask me about**  <br>JavaScript, React, Node.js, Express, MongoDB<br><br>⚡ **Fun fact:**  <br>I love playing video games.
+🔭 **I’m currently working on:**  <br>Improving my pet project BlogBugster.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>NextJS and Shadcn<br><br>💬 **Ask me about**  <br>JavaScript, React, Node.js, Express, MongoDB<br><br>⚡ **Fun fact:**  <br>I love playing video games.
 
 
 ## 🌐 Socials:
